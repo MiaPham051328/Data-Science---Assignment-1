@@ -12,6 +12,5 @@ The data used is the processed result from the original data downloaded from Kag
 * Seaborn
 
 # Visualization
-![boxplot](https://user-images.githubusercontent.com/122539964/230527136-3f349cf5-9a4d-4aaf-8776-ad3bf3f58392.png)
 
-![heatmap](https://user-images.githubusercontent.com/122539964/230526370-bb113b07-11bc-4853-b790-65b889883dcc.png)
+![heatmap](https://user-images.githubusercontent.com/122539964/230697518-b24ca329-8021-4f98-b6d1-65ad652caa69.png)
