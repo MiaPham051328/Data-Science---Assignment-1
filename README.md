@@ -17,7 +17,7 @@ The data used is the processed result from the original data downloaded from Kag
 # Work-through
 Click this to watch video.
 ![Alt text](images/heatmap.png)
-[label](../../../Desktop/Data%20visualization.mp4)
+[video](Data visualization.mp4)
 
 
 
