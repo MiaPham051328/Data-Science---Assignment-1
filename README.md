@@ -18,7 +18,7 @@ The data used is the processed result from the original data downloaded from Kag
 Click this to watch video.
 ![Alt text](images/heatmap.png)
 <video width="640" height="480" controls>
-  <source src="[label](Data%20visualization.mp4)" type="video/mp4">
+  <source src="Data visualization.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
