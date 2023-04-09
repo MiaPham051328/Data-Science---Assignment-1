@@ -15,4 +15,3 @@ The data used is the processed result from the original data downloaded from Kag
 ![heatmap](https://user-images.githubusercontent.com/122539964/230697518-b24ca329-8021-4f98-b6d1-65ad652caa69.png)
 
 # Work-through
-![heatmap](https://user-images.githubusercontent.com/122539964/230697518-b24ca329-8021-4f98-b6d1-65ad652caa69.png)
