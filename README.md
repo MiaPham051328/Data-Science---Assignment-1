@@ -15,9 +15,9 @@ The data used is the processed result from the original data downloaded from Kag
 ![Alt text](images/heatmap.png)
 
 # Work-through
-Click this to watch video.
+Click ([Data visualization](https://nscc.sharepoint.com/sites/PRD_course260630-Mia3-DayProject/Shared%20Documents/Recordings/View%20Only/New%20channel%20meeting-20230409_172153-Meeting%20Recording.mp4?web=1)) to watch the video.
 
-![Seaborn Wrapper Function](Data visualization.mp4)
+
 
 
 
