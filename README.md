@@ -17,10 +17,7 @@ The data used is the processed result from the original data downloaded from Kag
 # Work-through
 Click this to watch video.
 
-<video width="640" height="480" controls>
-  <source src="Data visualization.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Seaborn Wrapper Function](Data visualization.mp4)
 
 
 
