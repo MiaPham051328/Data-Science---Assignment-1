@@ -16,7 +16,9 @@ The data used is the processed result from the original data downloaded from Kag
 
 # Work-through
 
+
 Click ([Data visualization])(images/heatmap.png)(https://clipchamp.com/watch/4ysdUwSTtOd) to watch the video.
+
 
 
 
