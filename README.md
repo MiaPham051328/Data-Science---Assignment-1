@@ -15,8 +15,4 @@ The data used is the processed result from the original data downloaded from Kag
 ![heatmap](https://user-images.githubusercontent.com/122539964/230697518-b24ca329-8021-4f98-b6d1-65ad652caa69.png)
 
 # Work-through
-![heatmap](https://user-images.githubusercontent.com/122539964/230795435-3dfa0e08-a7bf-40e3-846d-dc1fceb19352.png)
-<video width="320" height="240" controls>
-  <source src="Data visualization.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
