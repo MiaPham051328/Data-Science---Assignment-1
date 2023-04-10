@@ -16,7 +16,7 @@ The data used is the processed result from the original data downloaded from Kag
 
 # Work-through
 
-Click ![Data visualization](images/boxplot.png)(https://clipchamp.com/watch/4ysdUwSTtOd) to watch the video.
+Click ![Alt text](images/boxplot.png)[Data visualization](https://clipchamp.com/watch/4ysdUwSTtOd) to watch the video.
 
 
 
