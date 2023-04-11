@@ -1,4 +1,4 @@
-# Hotel Booking Cancelling's Analysis and Visualization
+# Hotel Booking Cancellation Analysis and Visualization
 # Overview
 Online travel booking companies may experience a drop in revenue due to customer uncertainty in booking or cancelling. As a result, companies want to know what factors influence a customer's decision to cancel a reservation. Thanks to data science, we have a tool to help the company predict whether or not a customer will cancel a reservation based on the historical data provided. We will focus on EDA so that we can provide a analytical method that can predict whether or not a customer will cancel a reservation.
 
